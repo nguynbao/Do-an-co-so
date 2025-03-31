@@ -1,5 +1,6 @@
-<head>
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+ <head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
 <body>
@@ -16,10 +17,9 @@
   </ul>
     <p><i class="fa-solid fa-screwdriver-wrench"></i><strong>Công nghệ sử dụng:</strong></p>
   <ul>
-    <li>Nguyễn Ngọc Bảo</li>
-    <li>Dương Minh Huy</li>
-    <li>Nguyễn Đăng Khoa</li>
-    <li>Hồ Thị Ánh Ngọc</li>
-    <li>Phan Ngọc Quang</li>
+    <li>Lavarel</li>
+    <li>Bootstrap</li>
+    <li>Xampp</li>
+    <li>MySQL</li>
   </ul>
 </body>
