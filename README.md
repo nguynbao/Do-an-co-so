@@ -14,7 +14,7 @@
     <li>Hồ Thị Ánh Ngọc</li>
     <li>Phan Ngọc Quang</li>
   </ul>
-    <p><i class="fa-solid fa-people-group"></i> <strong>Công nghệ sử dụng:</strong></p>
+    <p><i class="fa-solid fa-screwdriver-wrench"></i><strong>Công nghệ sử dụng:</strong></p>
   <ul>
     <li>Nguyễn Ngọc Bảo</li>
     <li>Dương Minh Huy</li>
